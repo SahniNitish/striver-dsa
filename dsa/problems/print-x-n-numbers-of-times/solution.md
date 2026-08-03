@@ -32,10 +32,10 @@ sol.printX(X, N)
 ```
 
 ## Problem Link
-https://takeuforward.org/plus/dsa/problems/print-x-n-numbers-of-times?source=strivers-a2z-dsa-track&subject=dsa&sidebar=open&tab=submissions
+https://takeuforward.org/plus/dsa/problems/print-x-n-numbers-of-times?subject=dsa&category=beginner-problem&subcategory=language-basics&source=strivers-a2z-dsa-track&tab=submissions
 
 ## Stats
 - Success: true
 - Test Cases: 25
 - Time: 0.017s
-- Memory: 8.62 KiB
+- Memory: 9.12 KiB
