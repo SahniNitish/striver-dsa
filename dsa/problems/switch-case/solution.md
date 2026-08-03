@@ -29,10 +29,10 @@ class Solution:
 ```
 
 ## Problem Link
-https://takeuforward.org/plus/dsa/problems/switch-case?source=strivers-a2z-dsa-track&subject=dsa&sidebar=open&tab=submissions
+https://takeuforward.org/plus/dsa/problems/switch-case?source=strivers-a2z-dsa-track&tab=submissions
 
 ## Stats
 - Success: true
 - Test Cases: 11
-- Time: 0.018s
-- Memory: 9.12 KiB
+- Time: 0.017s
+- Memory: 9.00 KiB
