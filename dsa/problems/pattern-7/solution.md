@@ -12,15 +12,18 @@ Print the pattern in the function given to you.
 
 ```python
 class Solution:
-    def pattern7(self, n):
+    def  pattern7(self, n):
         for i in range (0,n):
-            for j in range(1,(n-i)):
-                print(" ",end="")
+            for j in range (0,(n-i-1)):
+                print(" " , end="")
 
             for j in range(0,2*i+1):
-                print("*",end="")
+                print("*", end="")
 
-            print()    
+
+
+            print()
+
 ```
 
 ## Problem Link
@@ -29,5 +32,5 @@ https://takeuforward.org/plus/dsa/problems/pattern-7?category=beginner-problem&s
 ## Stats
 - Success: true
 - Test Cases: 100
-- Time: 0.149s
+- Time: 0.234s
 - Memory: 9.75 KiB
