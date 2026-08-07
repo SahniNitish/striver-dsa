@@ -28,5 +28,5 @@ https://takeuforward.org/plus/dsa/problems/pattern-8?subject=dsa&category=beginn
 ## Stats
 - Success: true
 - Test Cases: 100
-- Time: 0.147s
-- Memory: 9.12 KiB
+- Time: 0.145s
+- Memory: 9.25 KiB
